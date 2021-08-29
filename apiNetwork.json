@@ -37,7 +37,7 @@
     }, {
         "id": 6,
         "title": "Awesome Assam Tea",
-        "price": 1,
+        "price": 1.0,
         "description": "Tea is an aromatic beverage prepared by pouring hot or boiling water over cured or fresh leaves of Camellia sinensis, an evergreen shrub native to China and East Asia. After water, it is the most widely consumed drink in the world.",
         "category": "Drinks",
         "image": "https://raw.githubusercontent.com/Deepjyoti120/WhatsApp-Sell-DataBase-Api/master/product/tea.png"
